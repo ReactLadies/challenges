@@ -15,7 +15,7 @@ Criar uma página com uma imagem de fundo, uma linha no centro da página com v�
   - Para incluirmos uma imagem como plano de fundo precisamos usar a propriedade `background-image` no `CSS`. [Nesse link](http://htmldog.com/references/css/properties/background-image/) você encontra mais detalhes sobre essa propriadade.
 - Segunda etapa, criar uma `div` que tem vários elementos (que podem ser outras divs) como filho, posicioná-la no centro da tela.
   - Para posicionar os blocos centralizado na página, você pode usar as propriedade `justify-content` e `align-items` do `Flexbox`, [nesse artigo](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) você pode encontrar a descrição dessas propriedades.
-- Esse layout é uma cópia do curso JS 30Days, você pode [acessá-lo aqui]https://javascript30.com/) para obter mais informações.
+- Esse layout é uma cópia do curso JS 30Days, você pode [acessá-lo aqui](https://javascript30.com/) para obter mais informações.
 
 ## Se você achou legou esse desafio e tentou fazer, adiciona aqui o link da tua solução pra gente ver também 😍
 1 - [Camila](https://codepen.io/camilars/pen/zybNzv)   
