@@ -21,3 +21,5 @@ Criar uma página com uma imagem de fundo, uma linha no centro da página com v�
 ## Se você achou legou esse desafio e tentou fazer, adiciona aqui o link da tua solução pra gente ver também 😍
 1 - [Camila](https://codepen.io/camilars/pen/zybNzv)   
 2 - [Letícia](https://codepen.io/leehmaciel/pen/ebXzem) 
+3 - [Raquel](https://codepen.io/raquel-ods/pen/VqNexG)
+4 - [Débora](https://codepen.io/Debbiemars/pen/OrGrwG)
