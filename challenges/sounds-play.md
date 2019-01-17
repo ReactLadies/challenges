@@ -19,7 +19,7 @@ Criar uma página com uma imagem de fundo, uma linha no centro da página com v�
 - Se você tiver qualquer dúvida ou se sentir `travada` em qualquer parte do desafio, não se desespere, esse processo é perfeitamente normal e acontece todas as vezes que somos introduzidas a algo novo, essa etapa faz parte do processo de aprendizagem, você não está sozinha, a qualquer momento você pode gritar por ajuda no nosso grupo privado, tem sempre alguém disposto a te dar aquele empurrãozinho pra você decolar 🌈, [acessa aqui](https://www.instagram.com/reactladies/) a nossa page solicitando o acesso ao grupo e vamos juntas nesse desafio 💃🏽
 
 ## Se você achou legou esse desafio e tentou fazer, adiciona aqui o link da tua solução pra gente ver também 😍
-1 - [Camila](https://codepen.io/camilars/pen/zybNzv)   
-2 - [Letícia](https://codepen.io/leehmaciel/pen/ebXzem) 
-3 - [Raquel](https://codepen.io/raquel-ods/pen/VqNexG)
-4 - [Débora](https://codepen.io/Debbiemars/pen/OrGrwG)
+1 - [Camila](https://codepen.io/camilars/pen/zybNzv)     
+2 - [Letícia](https://codepen.io/leehmaciel/pen/ebXzem)   
+3 - [Raquel](https://codepen.io/raquel-ods/pen/VqNexG)  
+4 - [Débora](https://codepen.io/Debbiemars/pen/OrGrwG)  
