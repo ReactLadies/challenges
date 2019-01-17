@@ -17,6 +17,6 @@ Criar uma página com uma imagem de fundo, uma linha no centro da página com v�
   - Para posicionar os blocos centralizado na página, você pode usar as propriedade `justify-content` e `align-items` do `Flexbox`, [nesse artigo](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) você pode encontrar a descrição dessas propriedades.
 - Esse layout é uma cópia do curso JS 30Days, você pode [acessá-lo aqui]https://javascript30.com/) para obter mais informações.
 
-## Se você fez achou legou esse desafio e tentou fazer, adiciona aqui o link da tua solução pra gente ver também 😍
+## Se você achou legou esse desafio e tentou fazer, adiciona aqui o link da tua solução pra gente ver também 😍
 1 - [Camila](https://codepen.io/camilars/pen/zybNzv)   
 2 - [Letícia](https://codepen.io/leehmaciel/pen/ebXzem) 
