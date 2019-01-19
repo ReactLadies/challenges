@@ -1,6 +1,6 @@
 # Sounds Play Page
 
-![Image of the page with the man using one head phone](../assets/imgs/sounds-play.jpeg)
+![Image of the page with the man using one head phone](../../assets/imgs/sounds-play.jpeg)
 
 ## Desafio 🎯
 Criar uma página com uma imagem de fundo, uma linha no centro da página com vários blocos, e inserir um conteúdo dentro de cada bloco de acordo com a imagem acima.  
