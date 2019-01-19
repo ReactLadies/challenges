@@ -14,7 +14,7 @@ Esse é um pequeno resumo do conteúdo que foi aplicado no nosso 1º encontro do
 - [The Essential Meta Tags for Social Media](https://css-tricks.com/essential-meta-tags-social-media/)
 
 ## CSS `selectors`
-- https://developer.mozilla.org/pt-BR/docs/Web/CSS/Getting_Started/Seletores
+- [Seletores](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Getting_Started/Seletores)
 
 ## CSS `filter`
 - [CSS Tricks: filter](https://css-tricks.com/almanac/properties/f/filter/)
