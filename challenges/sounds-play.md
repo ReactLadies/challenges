@@ -31,4 +31,5 @@ Criar uma página com uma imagem de fundo, uma linha no centro da página com v�
 2 - [Letícia](https://codepen.io/leehmaciel/pen/ebXzem)   
 3 - [Raquel](https://codepen.io/raquel-ods/pen/VqNexG)  
 4 - [Débora](https://codepen.io/Debbiemars/pen/OrGrwG)  
-5 - [Dhebbora](https://codepen.io/dhebbora/pen/OrYoXE)  
+5 - [Dhebbora](https://codepen.io/dhebbora/pen/OrYoXE)
+6 - [Andrielly](https://codepen.io/dryalves/pen/REXwyW)
