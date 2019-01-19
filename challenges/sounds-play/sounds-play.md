@@ -1,6 +1,6 @@
 # Sounds Play Page
 
-![Image of the page with the man using one head phone](../../assets/imgs/sounds-play.jpeg)
+![Image of the page with the man using one head phone](../assets/imgs/sounds-play.jpeg)
 
 ## Desafio 🎯
 Criar uma página com uma imagem de fundo, uma linha no centro da página com vários blocos, e inserir um conteúdo dentro de cada bloco de acordo com a imagem acima.  
@@ -27,7 +27,9 @@ Criar uma página com uma imagem de fundo, uma linha no centro da página com v�
 ## Se você achou legou esse desafio e tentou fazer, adiciona aqui o link da tua solução pra gente ver também 😍  
 
 ## Quem já fez???
-1 - [Camila](https://codepen.io/camilars/pen/zybNzv)     
-2 - [Letícia](https://codepen.io/leehmaciel/pen/ebXzem)   
-3 - [Raquel](https://codepen.io/raquel-ods/pen/VqNexG)  
-4 - [Débora](https://codepen.io/Debbiemars/pen/OrGrwG)  
+1 - [Camila](https://codepen.io/camilars/pen/zybNzv)      
+2 - [Letícia](https://codepen.io/leehmaciel/pen/ebXzem)    
+3 - [Raquel](https://codepen.io/raquel-ods/pen/VqNexG)   
+4 - [Débora](https://codepen.io/Debbiemars/pen/OrGrwG)   
+5 - [Dhebbora](https://codepen.io/dhebbora/pen/OrYoXE)    
+6 - [Andrielly](https://codepen.io/dryalves/pen/REXwyW)
