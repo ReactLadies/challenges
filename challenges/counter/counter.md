@@ -53,4 +53,4 @@ Criar uma página com um contador e três botões que atendam as seguintes regra
 ## Se você achou legal esse desafio e tentou fazer, adiciona aqui o link da tua solução pra gente ver também 😍
 
 ## Quem já fez???
-1 - [Nelkisa](my version of challenge counter-js) 
+1 - [Nelkisa](https://challenge-counter.glitch.me/) 
