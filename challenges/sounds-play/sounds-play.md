@@ -34,3 +34,4 @@ Criar uma página com uma imagem de fundo, uma linha no centro da página com v�
 5 - [Dhebbora](https://codepen.io/dhebbora/pen/OrYoXE)    
 6 - [Andrielly](https://codepen.io/dryalves/pen/REXwyW)  
 7 - [Dani](https://codepen.io/daniela-rego/pen/PXrvmL?editors=1100#0)  
+8 - [Nelkisa](https://gifted-holiday.glitch.me/) 
