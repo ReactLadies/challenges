@@ -30,8 +30,7 @@ Criar uma página com um TODO List que tenha as seguintes regras:
   - Pegar o valor digitado no `input` através da ação de click no botão `ADD`
     - [change input value - Pen example by Simone Amorim](https://codepen.io/simoneas02/pen/zeJXQP?editors=1111)
   - Adicionar esse valor ao array criado inicialmente.
-    - [How can I make an array out of user inputs in JavaScript?](https://www.quora.com/How-can-I-make-an-array-out-of-user-inputs-in-JavaScript)
-    - [How to Add Elements to an Array](https://www.dyn-web.com/javascript/arrays/add.php)  
+    - [MDN: Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)  
   - Mostrar a lista de textos na tela, inserindo cada texto via javascript um novo element do tipo `<li>`
 - Você vai precisar criar as seguintes funções:
   - `listItem(list)`: 
