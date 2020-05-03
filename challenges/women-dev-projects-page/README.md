@@ -1,6 +1,6 @@
 # Olar Monas
 
-![Board with some questions to grils](./02-05.png)
+![Board with some questions to grils](./../../assets/imgs/02-05.png)
 
 # O que vamos usar?
 
@@ -12,20 +12,20 @@
 
 ## Como que é esse negócio de Front-end?
 
-![Board with some research about front-end](./board.png)
+![Board with some research about front-end](./../../assets/imgs/board.png)
 ## O que tem pra hoje?
 
-- [ ]  Components
-- [ ]  Onde está o HTML mesmo?
-- [ ]  Variável.
-- [ ]  JSX
-- [ ]  Escrevendo JS no retorno da função
-- [ ]  Função
-- [ ]  [Alguns atributos são escritos diferentes entre o React e o HTML...](https://reactjs.org/docs/dom-elements.html)
-- [ ]  Props
+- [x]  Components
+- [x]  Onde está o HTML mesmo?
+- [x]  Variável.
+- [x]  JSX
+- [x]  Escrevendo JS no retorno da função
+- [x]  Função
+- [x]  [Alguns atributos são escritos diferentes entre o React e o HTML...](https://reactjs.org/docs/dom-elements.html)
+- [x]  Props
 - [ ]  Eventos
 - [ ]  Estados
-- [ ]  ES Modulos
+- [x]  ES Modulos
 
 > Não vamos usar componentes de classes, se precisar alterar estados usaremos o hooks.
 
@@ -40,4 +40,4 @@
 
 ## Desafio
 
-![Challenge](./challenge.png)
+![Challenge](./../../assets/imgs/challenge.png)
