@@ -5,4 +5,4 @@
 3 - [Counter](./challenges/counter/counter.md)  
 4 - [JS TODO](./challenges/js-todo/js-todo.md)  
 5 - [Women DEV projects page](./challenges/women-dev-projects-page/README.md)  
-6 - [Women DEV projects page](./challenges/dojo-01/dojo.md)
+6 - [#01 DOJO](./challenges/dojo-01/dojo.md)
