@@ -25,7 +25,7 @@ Entre no nosso mural (link enviado no momento do encontro) e represente com um e
   - [ ] Dentro do `App` crie duas variáveis com o nome `data e setData` usando o `useState`.
     - [ ] Uma para salvar os dados que vamos consumir da `api` e outra que vai receber a função pra manipular os dados que vem da `api`.
   - [ ] Agora vamos usar o `useEffect` pra fazer a chamada da `api` .
-    - [ ] Vamos usar essa `[URL](https://api.spacexdata.com/v3/rockets)` , mas antes de consumir a url, vamos abrir ela no browser pra ter uma ideia de como os dados que vamos consumir estão estruturados.
+    - [ ] Vamos usar essa [URL](https://api.spacexdata.com/v3/rockets) , mas antes de consumir a url, vamos abrir ela no browser pra ter uma ideia de como os dados que vamos consumir estão estruturados.
     - [ ] Dentro do `useEffect` vamos criar uma função com o nome `fetchData` pra fazer a chamada a `api` .
     - [ ] Vamos usar o `fetch` do JS em lugar da biblioteca `axios`.
     - [ ] Dentro da função `fetchData` vamos criar uma variável com o nome `response` pra receber o retorno da chamada da `api`, vamos usar usar o `async - await`.
